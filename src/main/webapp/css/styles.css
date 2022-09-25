@@ -1,0 +1,25 @@
+#leftsideNav {
+	font-family: sans-serif;
+	border: 3px solid;
+	margin: 100px 10px;
+	padding: 5px;
+	width: 150px;
+}
+
+#leftside {
+	width: 20%;
+}
+
+#leftside ul li {
+	list-style-type: none;
+	padding: 10px;
+	border: 3px solid;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #ff8221;
+	cursor: pointer;
+	font-size: 11px;
+}
+
